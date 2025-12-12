@@ -46,7 +46,7 @@
 
 **result:**
 
-![result_6](/home/wrt/task_6/task6/assets/result_6.gif)
+![result_6](/assets/result_6.gif)
 
 
 

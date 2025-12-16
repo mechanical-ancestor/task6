@@ -1,0 +1,3 @@
+/home/zanyy/task6/build/CMakeFiles/frame_capture.dir
+/home/zanyy/task6/build/CMakeFiles/edit_cache.dir
+/home/zanyy/task6/build/CMakeFiles/rebuild_cache.dir

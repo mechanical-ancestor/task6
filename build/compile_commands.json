@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/zanyy/task6/build",
-  "command": "/usr/bin/g++  -isystem /usr/local/include/opencv4 -g -std=gnu++17 -o CMakeFiles/frame_capture.dir/frame_cap.cpp.o -c /home/zanyy/task6/code/frame_cap.cpp",
-  "file": "/home/zanyy/task6/code/frame_cap.cpp",
-  "output": "CMakeFiles/frame_capture.dir/frame_cap.cpp.o"
-}
-]

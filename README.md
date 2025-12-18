@@ -40,11 +40,11 @@
 
 ## 运行结果
 
-**example:**   * *的例子:* *
+**example:**  
 
 ![example.gif](/assets/example.gif)
 
-**result:**   * *结果:* *
+**result:**   
 
 > 使用了yolov12和yolov13训练，在视频中每秒截取了5张图像，原始图像共108张，使用[roboflow](https://app.roboflow.com/rmtext-0twfr/my-first-project-nummy/1)进行标注和图像增强，yolo中有进行二次图像增强。两次训练均采用相同的数据集和超参数
 > - 标注质量有点低

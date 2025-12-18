@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['target']
+
+roboflow:
+  workspace: rmtext-0twfr
+  project: my-first-project-nummy
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/rmtext-0twfr/my-first-project-nummy/dataset/1

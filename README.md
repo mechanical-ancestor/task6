@@ -42,7 +42,7 @@
 
 **example:**   * *的例子:* *
 
-![example.gif](/assets/example.gif)! [example.gif](/资产/ example.gif)
+![example.gif](/assets/example.gif)
 
 **result:**   * *结果:* *
 
@@ -51,17 +51,17 @@
 > - batch == 16
 
 - yolov13  
-  ![v13.png](/assets/results_v13.png)! [v13.png](/资产/ results_v13.png)
+  ![v13.png](/assets/results_v13.png)
   - 默认置信度  
-    ![v13.gif](/assets/v13.gif)! [v13.gif](/资产/ v13.gif)
+    ![v13.gif](/assets/v13.gif)
   - conf == 0.6  
-    ![v13_conf.gif](/assets/v13_conf.gif)! [v13_conf.gif](/资产/ v13_conf.gif)
+    ![v13_conf.gif](/assets/v13_conf.gif)
 - yolov12  
-  ![v12.png](/assets/results_v12.png)! [v12.png](/资产/ results_v12.png)
+  ![v12.png](/assets/results_v12.png)
   - 默认置信度  
-    ![v12.gif](/assets/v12.gif)! [v12.gif](/资产/ v12.gif)
+    ![v12.gif](/assets/v12.gif)
   - conf == 0.6  
-    ![v12_conf.gif](/assets/v12_conf.gif)! [v12_conf.gif](/资产/ v12_conf.gif)
+    ![v12_conf.gif](/assets/v12_conf.gif)
 
 >tips：v12挺有意思的，在使用attention的情况下还保证了不错的推理速度（之前用swin-T给我卡成定格动画了），后期在深入去对比一下
 
